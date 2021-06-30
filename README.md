@@ -3,6 +3,6 @@ Exploration to explore pytorch from official documentation and courses available
 
 ## Content
 
-### 0: Getting Started
+### 0: Basics
 1) [Exploring Tensors](./1_Tensors.ipynb)
 2) [Exploring Autograd Function](./2_Autograd.ipynb)
