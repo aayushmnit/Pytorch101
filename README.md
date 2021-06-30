@@ -1,2 +1,2 @@
 # Pytorch101
-Exploration to learn from pytorch documentation and courses available online
+Exploration to explore pytorch from official documentation and courses available online
