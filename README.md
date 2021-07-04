@@ -6,3 +6,4 @@ Exploration to explore pytorch from official documentation and courses available
 ### 0: Basics
 1) [Exploring Tensors](./1_Tensors.ipynb)
 2) [Exploring Autograd Function](./2_Autograd.ipynb)
+3) [Exploring Custom Dataset class](./3_Dataset_Class.ipynb)
