@@ -12,3 +12,5 @@ Exploration to explore pytorch from official documentation and courses available
 3) [Exploring Custom Dataset class](./3_Dataset_Class.ipynb)
 4) [Exploring DataLoaders](./4_DataLoaders.ipynb)
 5) [Linear Regression using Pytorch](./5_LinearRegressionModel.ipynb)
+6) [Understanding training and Validation Loop](./6_Training_and_Validation_Loop.ipynb)
+7) [Exploring Torch.NN class](./7_Understanding_torch.nn.ipynb)
