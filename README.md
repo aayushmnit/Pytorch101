@@ -1,5 +1,8 @@
 # Pytorch101
-Exploration to explore pytorch from official documentation and courses available online
+Exploration to explore pytorch from official documentation and courses available online. Resource list  -
+- [Pytorch Documentation](https://pytorch.org/tutorials/beginner/basics/intro.html)
+- [Abhishek Thakur's Pytorch 101 series](https://www.youtube.com/watch?v=_R-mvKBD5U8&list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)
+
 
 ## Content
 
