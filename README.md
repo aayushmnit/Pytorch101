@@ -8,3 +8,4 @@ Exploration to explore pytorch from official documentation and courses available
 2) [Exploring Autograd Function](./2_Autograd.ipynb)
 3) [Exploring Custom Dataset class](./3_Dataset_Class.ipynb)
 4) [Exploring DataLoaders](./4_DataLoaders.ipynb)
+5) [Linear Regression using Pytorch](./5_LinearRegressionModel.ipynb)
